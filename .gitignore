@@ -1,0 +1,18 @@
+# Ignore IDE/project files
+.vscode/
+.idea/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Arduino build files
+*.ino.*
+*.elf
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+tmp/
